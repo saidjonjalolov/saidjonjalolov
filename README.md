@@ -2,10 +2,7 @@
   <img src="https://github.com/saidjonjalolov/saidjonjalolov/blob/main/name.svg" />
 </h1>
 
-> I am active in the **`.Net`** web field and a member of the **`.Net community in Uzbekistan`**. I have been working mainly in the backend direction at the **`Young Centre`**
-<br>
-
-<h5>I'm Saidjon Jalolov, I study Frontend and Backent. And my goal is to become a programmer and work at GOOGLE</h5>
+> <h5>I'm Saidjon Jalolov, I study Frontend and Backent. And my goal is to become a programmer and work at GOOGLE</h5>
 
 - I’m currently working on **.NET || C#**
 
