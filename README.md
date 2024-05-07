@@ -2,6 +2,9 @@
   <img src="https://github.com/saidjonjalolov/saidjonjalolov/blob/main/name.svg" />
 </h1>
 
+> I am active in the **`.Net`** web field and a member of the **`.Net community in Uzbekistan`**. I have been working mainly in the backend direction at the **`Young Centre`**
+<br>
+
 <h5>I'm Saidjon Jalolov, I study Frontend and Backent. And my goal is to become a programmer and work at GOOGLE</h5>
 
 - I’m currently working on **.NET || C#**
@@ -16,5 +19,5 @@
 <a href="https://t.me/Saidjonjalolov" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2864/PNG/512/telegram_logo_icon_181740.png" 
 alt="bdviett" height="35" width="25" /></a>
 <a href="https://medium.com/@bmwmf8896" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/medium_m_logo_icon_145072.png" 
-alt="bdviett" height="35" width="25" background="red"/></a>
+alt="bdviett" height="35" width="25"/></a>
 </p>
