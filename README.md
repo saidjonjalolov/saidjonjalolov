@@ -10,3 +10,5 @@
   <img href="https://github-readme-stats.vercel.app/api?username=saidjonjalolov&show_icons=true&theme=radical">
   <img href="">
 </p>
+
+- 🔭 I’m currently working on **.NET || C#**
