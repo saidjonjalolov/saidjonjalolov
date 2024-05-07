@@ -13,6 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/SaidjonJalolov" target="blank"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" 
+<a href="https://t.me/SaidjonJalolov" target="blank"><img align="center" width="40" src="https://cdn.iconicons.com/icons2/2864/PNG/512/telegram_logo_icon_181740.png" 
 alt="bdviett" height="35" width="25" /></a>
 </p>
