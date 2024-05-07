@@ -19,4 +19,6 @@
 alt="bdviett" height="35" width="25" /></a>
 <a href="https://medium.com/@bmwmf8896" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/medium_m_logo_icon_145072.png" 
 alt="bdviett" height="35" width="25"/></a>
+  <a href="https://www.sololearn.com/en/profile/31209621" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/3915/PNG/512/sololearn_logo_icon_249580.png" 
+alt="bdviett" height="20" width="25" /></a>
 </p>
