@@ -15,4 +15,6 @@
 <p align="left">
 <a href="https://t.me/Saidjonjalolov" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2864/PNG/512/telegram_logo_icon_181740.png" 
 alt="bdviett" height="35" width="25" /></a>
+<a href="https://medium.com/@bmwmf8896" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/medium_m_logo_icon_145072.png" 
+alt="bdviett" height="20" width="25" /></a>
 </p>
