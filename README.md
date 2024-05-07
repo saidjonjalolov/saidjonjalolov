@@ -14,5 +14,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="" target="blank"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" 
-alt="bdviett" height="50" width="25" /></a>
+alt="bdviett" height="25" width="25" /></a>
 </p>
