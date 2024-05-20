@@ -13,7 +13,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidjonjalolov&hide_progress=true&theme=radical" alt="bdviett" height="200" width="360" />
 </p>
 
-<p align="left">
+<p align="center">
   <img align="left" src="https://leetcode.card.workers.dev/SaidjonJalolov?theme=dark&font=baloo&extension=null" alt="LeetCode" height="200" width="360" />
   <img align="center" src="https://github.r2v.ch/codewars?user=saidjonjalolov&stroke=%23BB432C" alt="CodeWars" height="200" width="400" />
 </p>
