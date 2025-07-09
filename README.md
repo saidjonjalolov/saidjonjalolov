@@ -28,7 +28,7 @@ alt="bdviett" height="35" width="25"/></a>
 alt="bdviett" height="35" width="25" /></a>
   <a href="https://www.codewars.com/users/saidjonjalolov" target="blank"><img align="center" width="40" src="https://blog.codewars.com/logo.png?h=cbc5fc2fb90154f31e3eb4ed3d3d572d497fa0522469e8f186562c4365b43db2" 
 alt="bdviett" margin="0 20 0 40" height="35" width="250"/></a>
-  <a href="https:[//www.instagram.com/saidjonitblog2/](https://www.instagram.com/saidjon__jalolov?igsh=MW1hcmE5NGgxN2ZoOA%3D%3D&utm_source=qr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdviett" height="45" width="40" /></a>
+  <a href="https://www.instagram.com/saidjon__jalolov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdviett" height="45" width="40" /></a>
   <a href="https://join.skype.com/invite/Hkxbu4r7SpLM" target="blank"><img align="center" width="40" src="https://cdn.icon-icons.com/icons2/405/PNG/512/Skype_40679.png" 
 alt="bdviett" height="35" width="25" /></a>
 </p>
