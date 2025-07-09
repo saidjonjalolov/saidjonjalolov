@@ -4,9 +4,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D27F7&random=false&width=435&lines=Hi+there%2C+I'm+saidjon%F0%9F%91%8B;I+am+a+.Net+developer%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-> <h5>I'm Saidjon Jalolov, I study Frontend and Backent. And my goal is to become a programmer and work at GOOGLE</h5>
+> <h5>I'm Saidjon Jalolov, I study Frontend and Backent and Flutter. And my goal is to become a programmer and work at GOOGLE</h5>
 
-- I’m currently working on **.NET || C#**
+- I’m currently working on **.NET || C#**,Dart
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saidjonjalolov&show_icons=true&theme=radical" alt="bdviett" height="200" width="400" />
